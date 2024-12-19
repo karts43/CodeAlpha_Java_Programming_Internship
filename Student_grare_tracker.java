@@ -1,4 +1,3 @@
-// t.c = O(n)  and   S.c = O(n)
 import java.util.*;
 public class Student_grare_tracker{
 //Step 1 -> That Calulate_Arerage_Scores method are find out Avg.Scores number in integer formate
